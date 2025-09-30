@@ -1,0 +1,5 @@
+{
+  "name": "Causation station",
+  "description": "An LSAT training app that helps students master causal reasoning through guided skill drills and an interactive AI-powered tutor. Features a Training Yard, Wrong-Answer Journal, and detailed performance analytics.",
+  "requestFramePermissions": []
+}
