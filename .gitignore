@@ -1,0 +1,12 @@
+# Ignore zip files we don't want in the repo
+*.zip
+
+# Node dependencies (very large)
+node_modules/
+
+# Build / output folders
+dist/
+build/
+
+# macOS temp files
+.DS_Store
